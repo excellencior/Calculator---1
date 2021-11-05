@@ -46,6 +46,7 @@ for (var i = 0; i < pressValue.length; i++) {
         else if (numKey == "Clear") {
             // console.log("Clear pressed");
             screenText("00");
+            inputValue = "";
         }
     })
 
