@@ -2,4 +2,4 @@
 - [x] Learnt element referencing and html update rendering
 
 ### SS Demo of the deployed Page
-![Calculator](./Calculator Project Page SS.png)
+![Calculator](./Calculator_Project_Page_SS.png)
